@@ -72,6 +72,14 @@
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
   },
   {
+    "name" : "Computer+++",
+    "author" : "MellowM0on",
+    "version" : "1.0.0",
+    "git_path" : "ComputerPlusPlus-1.0.1/ComputerPlusPlus-1.0.1",
+    "group" : "Tweaks / Tools",
+    "download_url" : "https://github.com/MellowM0on/Computer-/releases/download/Mellow/ComputerPlusPlus.zip"
+  },
+  {
     "name": "bHaptics",
     "author": "Florian Fahrenberger",
     "version": "3.0.1",
